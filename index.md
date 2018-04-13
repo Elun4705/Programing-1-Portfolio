@@ -12,18 +12,18 @@
 - [The PigLatin App](https://github.com/Elun4705/PigLatin-/blob/master/README.md)
 
 #### The Calculator Project -
-
+This is an attempt, that works very well toward a  calculator. This was assinged as a mini project in my programming class. This was also achived thanks to the help of the students in the class how had experience with apps such as this. This was coded with Java on the Processing app.
 #### The Chess Game -
-
+The Chess game was made as a group project. The group contained 4 members, 3 boys(including me), and one girl. We all took different tasks to accomplish them we placed all together and hoped for the best. Our Kinght didn't want to fuction so we took very harsh coding for this. The knight works, and so does every other chess piece. This game _has_ to be played by two player.No computer versus is available. This was coded with Python on the Processing app.
 #### Shape Testing -
 
 #### Cars -
 
 #### Number Guess -
-Well this is a fun one.This is as the name says, a number guessing name. The app gives you 5 tries to guess the correct number. It's not completely finished yet, so it give feedback that shouldn't be given if the correct answer if given. Try  if you dare. you have 5 to 100 chance of getting it.
+Well this is a fun one.This is as the name says, a number guessing name. The app gives you 5 tries to guess the correct number. It's not completely finished yet, so it give feedback that shouldn't be given if the correct answer if given. Try  if you dare. you have 5 to 100 chance of getting it. This was coded with Python on the Idel app.
 #### PigLatin -
 Definition
 
 A made-up language formed from English by transferring the initial consonant or consonant cluster of each word to the end of the word and adding a vocalic syllable, so chicken soup would be translated to ickenchay oupsay. Pig Latin is typically spoken playfully, as if to convey secrecy.
 
-The app is not perfect yet, but it works swell. It understands most words, I use this just to play around. It's a fun way to spend time deciphering. Most people won't understand it, which is why it's used for **secrets**.
+The app is not perfect yet, but it works swell. It understands most words, I use this just to play around. It's a fun way to spend time deciphering. Most people won't understand it, which is why it's used for _secrets_. This was coded with Python on the Idel app.
