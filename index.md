@@ -12,7 +12,7 @@
 - [The PigLatin App](https://github.com/Elun4705/PigLatin-/blob/master/README.md)
 
 #### The Calculator Project -
-This is an attempt, that works very well toward a  calculator. This was assinged as a mini project in my programming class. This was also achived thanks to the help of the students in the class how had experience with apps such as this. This was coded with Java on the Processing app.3
+This is an attempt, that works very well toward a  calculator. This was assinged as a mini project in my programming class. This was also achived thanks to the help of the students in the class how had experience with apps such as this. This was coded with Java on the Processing app.4
 
 ![alt text](https://github.com/Elun4705/Programing-1-Portfolio/blob/master/Calc.jpg?raw=true)
 
