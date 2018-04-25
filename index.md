@@ -13,7 +13,9 @@
 
 #### The Calculator Project -
 This is an attempt, that works very well toward a  calculator. This was assinged as a mini project in my programming class. This was also achived thanks to the help of the students in the class how had experience with apps such as this. This was coded with Java on the Processing app.
+
 ![alt text](https://github.com/Elun4705/Programing-1-Portfolio/blob/master/Calc.png)
+
 #### The Chess Game -
 The Chess game was made as a group project. The group contained 4 members, 3 boys(including me), and one girl. We all took different tasks to accomplish them we placed all together and hoped for the best. Our Kinght didn't want to fuction so we took very harsh coding for this. The knight works, and so does every other chess piece. This game _has_ to be played by two player.No computer versus is available. This was coded with Python on the Processing app.
 
