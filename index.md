@@ -31,4 +31,4 @@ Definition
 A made-up language formed from English by transferring the initial consonant or consonant cluster of each word to the end of the word and adding a vocalic syllable, so chicken soup would be translated to ickenchay oupsay. Pig Latin is typically spoken playfully, as if to convey secrecy.
 
 The app is not perfect yet, but it works swell. It understands most words, I use this just to play around. It's a fun way to spend time deciphering. Most people won't understand it, which is why it's used for _secrets_. This was coded with Python on the Idel app.
-![alt text][logo](https://i1.wp.com/www.vinaysingh.info/wp-content/uploads/2014/03/piglatin.png)
+![alt text](https://github.com/Elun4705/PigLatin-/blob/master/maxresdefault.jpg)
