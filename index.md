@@ -12,18 +12,18 @@
 - [The PigLatin App](https://github.com/Elun4705/PigLatin-/blob/master/README.md)
 
 #### The Calculator Project -
-This is an attempt, that works very well toward a  calculator. This was assinged as a mini project in my programming class. This was also achived thanks to the help of the students in the class how had experience with apps such as this. This was coded with Java on the Processing app.4
+This is an attempt, that works very well toward a  calculator. This was assinged as a mini project in my programming class. This was also achived thanks to the help of the students in the class how had experience with apps such as this. This was coded with Java on the Processing app.
 
 ![alt text](https://github.com/Elun4705/Programing-1-Portfolio/blob/master/Calc.jpg?raw=true)
 
 #### The Chess Game -
 The Chess game was made as a group project. The group contained 4 members, 3 boys(including me), and one girl. We all took different tasks to accomplish them we placed all together and hoped for the best. Our Kinght didn't want to fuction so we took very harsh coding for this. The knight works, and so does every other chess piece. This game _has_ to be played by two player.No computer versus is available. This was coded with Python on the Processing app.
 
-![alt text](https://github.com/Elun4705/Programing-1-Portfolio/raw/master/ChessRunning.png)
+![alt text](https://github.com/Elun4705/Programing-1-Portfolio/blob/master/ChessRunning.png)
 
 #### Shape Testing -
 This is one of the first assigments to that I did in the year. This assigment was confusing and hard a first know looking back it was simple. This is not to simple to code though, this app tests boxes, pyramids, and spheres volume and surface area. It required time and reasource to find all of the necessary code for the app. This was coded with Python on the Idel app.
-![alt text](https://github.com/Elun4705/Programing-1-Portfolio/raw/master/geometric-shapes-icon-1.png)
+![alt text](https://github.com/Elun4705/Programing-1-Portfolio/blob/master/geometric-shapes-icon-1.png)
 #### Cars -
 Just like the name, it's just cars. The only thing that ti shows are moving cars across that tiny screen. You can play around with the speed and test the functions. Also, it's one of the first projects I did in class. At first it was hard to understnd the code, but this was an easy project. This was coded with Java on the Processing app.
 ![alt text](https://github.com/Elun4705/Programing-1-Portfolio/blob/master/screensaverpic.png)
